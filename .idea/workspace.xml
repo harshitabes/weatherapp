@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca8748c0-6a57-49cc-84ad-0a590bde1816" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/the_weather.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -81,11 +74,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pipfile.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pipfile.lock">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
@@ -121,8 +109,8 @@
         <option value="$PROJECT_DIR$/weather/models.py" />
         <option value="$PROJECT_DIR$/weather/templates/weather/weather.html" />
         <option value="$PROJECT_DIR$/weather/views.py" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/the_weather/settings.py" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -618,7 +606,7 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
         </state>
       </provider>
     </entry>
